@@ -29,8 +29,8 @@ Versions of the software used: Fiji, ImageJ 2.14.0/1.54f
 
 ## Repository content
 
-|_Readme
-|_[img](img/)
-  |_[illustration](img/illustration/): stores images used in the readme
-  |_[examples](img/examples/): example images used to build and test the macro
-|_[macro](macro/): latest version of the macro
+- Readme: current file
+- [img](img/)
+  - [illustration](img/illustration/): stores images used in the readme
+  - [examples](img/examples/): example images used to build and test the macro
+- [macro](macro/): latest version of the macro
